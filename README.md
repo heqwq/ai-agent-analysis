@@ -29,8 +29,8 @@ AI 框架：LangChain
 
 > 业务流程：用户上传数据 -> 前端保存至本地 -> 大模型解析意图 -> 调度 Tools 进行 Pandas 运算 -> 返回结论给大模型 -> 大模型生成诊断报告与图表。
 
-📸 效果展示
-*(将你的项目截图或录屏 GIF 放在这里，非常重要！)*
+效果展示
+
 <img width="936" height="582" alt="image" src="https://github.com/user-attachments/assets/3875e133-2208-4aca-a1f5-67e6b684957c" />
 
 <img width="1107" height="757" alt="image" src="https://github.com/user-attachments/assets/1bf8ce3a-0119-48fe-b00c-ebb6ed21ffff" />
